@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+scikit-learn
+streamlit
+# optional (Surprise SVD ke liye; install fail ho to skip karein, sklearn fallback chalega):
+# scikit-surprise
